@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Jainam Savla
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🚀 Full-Stack Developer | 🌐 Blockchain Enthusiast | 🧠 AI/ML & Data Science Learner  
+**Full-Stack Developer | Blockchain Enthusiast | AI/ML & Data Science Learner**  
 📍 Mumbai, Maharashtra, India | 🇮🇳 Indian
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [jainamsavla77@gmail.com](mailto:jainamsavla77@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jainam-savla-b6433828b](https://linkedin.com/in/jainam-savla-b6433828b)
-- 💻 GitHub: [github.com/JainamSavla](https://github.com/JainamSavla)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jainamsavla77@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainam-savla-b6433828b)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JainamSavla)
 
 ---
+<img width="1069" height="390" alt="image" src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" />
+
 </div>
 ## 🚀 Tech Arsenal
 
