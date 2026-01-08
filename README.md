@@ -9,21 +9,6 @@
 - 📧 Email: [jainamsavla77@gmail.com](mailto:jainamsavla77@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jainam-savla-b6433828b](https://linkedin.com/in/jainam-savla-b6433828b)
 - 💻 GitHub: [github.com/JainamSavla](https://github.com/JainamSavla)
-- 📱 Mobile: +91 8779304073
-
----
-
-## 🎓 Education
-
-**Shah & Anchor Kutchhi Engineering College** — Mumbai  
-**B.Tech in Information Technology**  
-CGPA: **8.9** | Expected: **May 2027**
-
-**Navjeevan Junior College** — Mumbai  
-HSC (12th): **78%** | MHT-CET: **93%** | June 2022
-
-**Swami Vivekanand International School & Jr College** — Mumbai  
-SSC (10th): **88.2%** | June 2020
 
 ---
 
