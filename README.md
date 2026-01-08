@@ -1,7 +1,4 @@
-<img align="right" width="1146" height="436" alt="image" src="https://github.com/user-attachments/assets/7e03b292-f049-4e19-943c-44e4695dd14e" />
-
-🚀 Full-Stack Developer | 🌐 Blockchain Enthusiast | 🧠 AI/ML & Data Science Learner  
-📍 Mumbai, Maharashtra, India | 🇮🇳 Indian
+<img width="1110" height="401" alt="image" src="https://github.com/user-attachments/assets/914d0f91-1172-4df7-8c5d-06af59173df1" />
 
 ---
 
