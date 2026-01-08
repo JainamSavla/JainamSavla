@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Jainam Savla  
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top" style="padding-right: 10px;">
+<div style="background-color: #16171b; padding: 20px; border-radius: 10px; display: flex; align-items: center; gap: 20px;">
+<div style="flex: 1;">
 
 ```
 JainamSavla ──────────────────────────────────
@@ -24,12 +23,11 @@ LinkedIn: ........... /in/jainam-savla-b6433828b
 GitHub: ............. github.com/JainamSavla
 ```
 
-</td>
-<td width="45%" valign="top">
-<img width="100%" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" />
-</td>
-</tr>
-</table>
+</div>
+<div style="flex-shrink: 0;">
+<img width="280" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" style="border-radius: 8px;" />
+</div>
+</div>
 ## 🚀 Tech Arsenal
 
 ### 💻 Languages
