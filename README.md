@@ -1,21 +1,18 @@
 <div align="center">
 
+<!-- ID Card Section -->
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0d1117; border: 2px solid #30363d; border-radius: 10px; overflow: hidden; font-family: 'Courier New', Courier, monospace; color: #c9d1d9; max-width: 850px;">
   <tr>
     <td width="60%" valign="top" style="padding: 25px; border-right: 1px solid #30363d;">
       <div style="font-size: 20px; font-weight: bold; border-bottom: 2px solid #58a6ff; padding-bottom: 10px; margin-bottom: 20px; color: #58a6ff;">
         IDENTIFICATION CARD : JAINAM SAVLA
       </div>
-      
       <div style="line-height: 1.8; font-size: 14px;">
         <span style="color: #8b949e;">STATUS:</span> ........... Engineering Student<br>
         <span style="color: #8b949e;">DOMAINS:</span> .......... AI, Blockchain, Security<br>
         <span style="color: #8b949e;">LOCATION:</span> ......... Mumbai, MH, India<br>
         <span style="color: #8b949e;">VIBE:</span> ............. Minimalist / Terminal<br>
       </div>
-
-      <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-size: 12px; letter-spacing: 2px;">
-       
       <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-size: 12px; letter-spacing: 2px;">
         CONTACT REGISTRY
       </div>
@@ -25,7 +22,6 @@
         <span style="color: #8b949e;">GITHUB:</span> .......... @JainamSavla<br>
       </div>
     </td>
-
     <td width="40%" valign="middle" align="center" style="background-color: #161b22; padding: 20px;">
       <img src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" width="100%" style="border-radius: 5px; filter: grayscale(20%) contrast(110%);" />
       <div style="margin-top: 15px; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 3px;">
