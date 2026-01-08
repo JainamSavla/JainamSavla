@@ -153,14 +153,6 @@
 
 ---
 
-### 🌊 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/JainamSavla/JainamSavla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;📊 Extended Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
