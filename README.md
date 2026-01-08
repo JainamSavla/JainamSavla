@@ -31,51 +31,16 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 
 ## 🚀 Tech Arsenal
 
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🧠 AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm)
-
----
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-
-### 📊 Analytics & Business Intelligence
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
----
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+| **Category** | **Technologies** |
+| - | - |
+| **💻 Languages** | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF) ![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=c&logoColor=FFFFFF) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000) |
+| **🤖 AI / Machine Learning** | ![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF) ![Scikit-Learn](https://img.shields.io/static/v1?label=&message=Scikit-Learn&color=F7931E&logo=scikitlearn&logoColor=FFFFFF) ![Qiskit](https://img.shields.io/static/v1?label=&message=Qiskit&color=6929C4&logo=ibm&logoColor=FFFFFF) |
+| **📊 Data Science** | ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=FFFFFF) ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=FFFFFF) ![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=4C72B0&logo=python&logoColor=FFFFFF) |
+| **🌐 Web Development** | ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=000000) ![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF) ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF) ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF) |
+| **🗄️ Databases** | ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF) ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mysql&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&logo=postgresql&logoColor=FFFFFF) |
+| **📈 Analytics & BI** | ![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=tableau&logoColor=FFFFFF) ![Power BI](https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=000000) ![Excel](https://img.shields.io/static/v1?label=&message=Excel&color=217346&logo=microsoftexcel&logoColor=FFFFFF) |
+| **🛠️ Tools & Platforms** | ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=FFFFFF) ![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF) |
+| **💿 Operating Systems** | ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=000000) ![Arch Linux](https://img.shields.io/static/v1?label=&message=Arch&color=1793D1&logo=archlinux&logoColor=FFFFFF) ![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=FFFFFF) |
 
 ---
 
