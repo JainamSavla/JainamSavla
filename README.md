@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jainam Savla  
 
-<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### Full-Stack Developer | Blockchain & Web3 | AI/ML & Data Science  
 
