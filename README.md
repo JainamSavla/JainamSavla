@@ -4,20 +4,12 @@
 ## 👨‍💻 About Me
 <img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
 
-I am a **Computer Science and Engineering student** with a strong focus on  
-**Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+I am a **Computer Science and Engineering student** with interests in  
+**AI/ML, full-stack development, and data-driven systems**.
 
-I enjoy building **scalable applications**, working with **data-driven systems**,  
-and applying **AI/ML models to real-world problems**. My experience spans across  
-backend logic, modern frontend frameworks, and analytical problem-solving.
-
-- 🔹 Strong foundation in **Python, Java, JavaScript, and SQL**
-- 🔹 Hands-on experience with **AI/ML pipelines and data analytics**
-- 🔹 Passionate about **open-source contributions and collaborative development**
-- 🔹 Continuously learning emerging technologies like **Blockchain & Quantum Computing**
-
-📌 *I believe in writing clean, efficient code and building solutions that create impact.*
-
+I enjoy building scalable applications, experimenting with machine learning models,  
+and contributing to **open-source projects** while continuously learning  
+emerging technologies such as **Blockchain and Quantum Computing**.
 
 ## 📬 Connect With Me
 
