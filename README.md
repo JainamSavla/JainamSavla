@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Jainam Savla  
 
-<img align="right" width="350" src="https://github.com/JainamSavla.png"/>
+<img width="610" height="563" alt="image" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" />
+
 
 ```
 JainamSavla ──────────────────────────────────────────────────────
