@@ -73,20 +73,44 @@
 ---
 
 
-## 📈 GitHub Analytics
+<h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainamSavla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainamSavla&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+ 
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=JainamSavla&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&custom_title=Jainam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JainamSavla&theme=tokyonight" alt="GitHub Streak" />
+<table>
+  <tr>
+    <!-- Top Languages -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainamSavla&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+
+    <!-- Repos Per Language -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+
+    <!-- Most Commit Language -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&theme=react-dark&hide_border=true" />
-</div>
+<!-- Full GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=JainamSavla&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Jainam's GitHub stats">
+
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Profile Details">
 
 ## 🌊 Contribution Graph
 
