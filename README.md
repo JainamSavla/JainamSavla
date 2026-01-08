@@ -19,7 +19,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
   <img src="https://img.shields.io/badge/Email-jainamsavla77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/jainam-savla-b6433828b">
+<a href="www.linkedin.com/in/jainam-savla-b643a828b">
   <img src="https://img.shields.io/badge/LinkedIn-Jainam%20Savla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
