@@ -87,13 +87,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&theme=react-dark&hide_border=true" />
 </div>
----
 
 ## 🌊 Contribution Graph
 
 <div align="center">
   <img src="https://github.com/JainamSavla/JainamSavla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 
 ⭐ *Open to internships, collaborations, and challenging engineering problems.*
