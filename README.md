@@ -29,7 +29,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 
 </div>
 
-### 🚀 Tech Arsenal
+## 🚀 Tech Arsenal
 
 ### 💻 Languages
 
