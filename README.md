@@ -1,4 +1,9 @@
-<img width="831" height="326" alt="image" src="https://github.com/user-attachments/assets/4f4706b7-1f89-4db5-92ec-86228416d08a" />
+# 👋 Hi, I'm Jainam Savla
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🚀 Full-Stack Developer | 🌐 Blockchain Enthusiast | 🧠 AI/ML & Data Science Learner  
+📍 Mumbai, Maharashtra, India | 🇮🇳 Indian
 
 ---
 
@@ -9,7 +14,6 @@
 - 💻 GitHub: [github.com/JainamSavla](https://github.com/JainamSavla)
 
 ---
-
 </div>
 ## 🚀 Tech Arsenal
 
