@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Jainam Savla
 <img width="1069" height="390" alt="image" src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" />
-**Full-Stack Developer | Blockchain Enthusiast | AI/ML & Data Science Learner**  
-📍 Mumbai, Maharashtra, India | 🇮🇳 Indian
-
 ---
 
 ## 🔗 Connect With Me
