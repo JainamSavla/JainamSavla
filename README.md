@@ -100,44 +100,8 @@
 </table>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JainamSavla&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Jainam's GitHub stats">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Profile Details">
 
----
-
-### ⭐ Top Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/JainamSavla/AI-Project-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JainamSavla&repo=AI-Project-1&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JainamSavla/Blockchain-Project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JainamSavla&repo=Blockchain-Project&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/JainamSavla/FullStack-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JainamSavla&repo=FullStack-App&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JainamSavla/Data-Science-Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JainamSavla&repo=Data-Science-Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ### 📈 GitHub Contribution Chart
 
