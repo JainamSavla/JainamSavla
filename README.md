@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" width="1069" height="390" style="border-radius:15px;" alt="image" />
 
 ## 👨‍💻 About Me
-<img align="right" width="320" height="180" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
+<img align="right" width="320" height="180" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />https://github.com/JainamSavla/JainamSavla/blob/main/README.md
 
 I am a **Computer Science and Engineering student** with interests in  
 **AI/ML, full-stack development, and data-driven systems**.
@@ -19,7 +19,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
   <img src="https://img.shields.io/badge/Email-jainamsavla77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/jainam-savla-b643a828b">
+<a href="https://www.linkedin.com/in/jainam-savla-b643a828b/">
   <img src="https://img.shields.io/badge/LinkedIn-Jainam%20Savla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
