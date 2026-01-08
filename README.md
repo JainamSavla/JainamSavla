@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jainam Savla  
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td width="55%" valign="top" style="padding-right: 10px;">
 
 ```
 JainamSavla ──────────────────────────────────
@@ -25,7 +25,7 @@ GitHub: ............. github.com/JainamSavla
 ```
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 <img width="100%" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" />
 </td>
 </tr>
