@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Jainam Savla
+# 👋 Hi, I’m Jainam Savla  
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-🚀 Full-Stack Developer | 🌐 Blockchain Enthusiast | 🧠 AI/ML & Data Science Learner  
-📍 Mumbai, Maharashtra, India | 🇮🇳 Indian
+### Full-Stack Developer | Blockchain & Web3 | AI/ML & Data Science  
+
+📍 Mumbai, Maharashtra, India 🇮🇳  
+
+I’m a passionate developer focused on building scalable web applications,  
+experimenting with decentralized technologies, and continuously learning  
+AI/ML and data-driven systems to solve real-world problems.
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me  
 
-- 📧 Email: [jainamsavla77@gmail.com](mailto:jainamsavla77@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jainam-savla-b6433828b](https://linkedin.com/in/jainam-savla-b6433828b)
+- 📧 Email: [jainamsavla77@gmail.com](mailto:jainamsavla77@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jainam-savla-b6433828b](https://linkedin.com/in/jainam-savla-b6433828b)  
 - 💻 GitHub: [github.com/JainamSavla](https://github.com/JainamSavla)
 
----
 
 ## 🚀 Tech Arsenal
 
