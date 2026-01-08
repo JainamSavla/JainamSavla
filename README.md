@@ -1,29 +1,35 @@
 # 👋 Hi, I’m Jainam Savla  
 
-<img width="610" height="563" alt="image" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" />
-
+<table>
+<tr>
+<td width="50%">
 
 ```
-JainamSavla ──────────────────────────────────────────────────────
+JainamSavla ──────────────────────────────────
 
-OS: .......................... Web, AI/ML, Blockchain
-Location: .................... Mumbai, Maharashtra, India
-Role: ........................ Full-Stack Developer
-Focus: ....................... AI/ML, Full-Stack Web, Blockchain
+OS: ................. Web, AI/ML, Blockchain
+Location: ........... Mumbai, Maharashtra
+Role: ............... Full-Stack Developer
+Focus: .............. AI/ML, Web, Blockchain
 
-Languages.Programming: ....... Python, Java, JavaScript, SQL, C
-Frameworks.Web: .............. React, Node.js, Next.js, Svelte
-AI.Data: ..................... TensorFlow, Scikit-learn, Pandas
-                               NumPy, Seaborn, Qiskit
-Tools.Platforms: ............. Git, GitHub, Docker, VS Code
+Languages: .......... Python, Java, JS, SQL
+Frameworks: ......... React, Node, Next.js
+AI/ML: .............. TensorFlow, Pandas
+Tools: .............. Git, Docker, VS Code
 
-─ Contact ────────────────────────────────────────────────────────
+─ Contact ────────────────────────────────────
 
-Email: ....................... jainamsavla77@gmail.com
-LinkedIn: .................... linkedin.com/in/jainam-savla-b6433828b
-GitHub: ...................... github.com/JainamSavla
+Email: .............. jainamsavla77@gmail.com
+LinkedIn: ........... /in/jainam-savla-b6433828b
+GitHub: ............. github.com/JainamSavla
 ```
 
+</td>
+<td width="50%">
+<img width="100%" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" />
+</td>
+</tr>
+</table>
 ## 🚀 Tech Arsenal
 
 ### 💻 Languages
