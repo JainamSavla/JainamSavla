@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="750" height="594" alt="image" src="https://github.com/user-attachments/assets/a927d644-55d7-4f40-9eab-37a1345ac085" />
+<img align="right" width="150" height="140" alt="image" src="https://github.com/user-attachments/assets/a927d644-55d7-4f40-9eab-37a1345ac085" />
 
 I am a **Computer Science and Engineering student** with a strong focus on  
 **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
