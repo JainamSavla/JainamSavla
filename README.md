@@ -119,8 +119,6 @@
   <br>
   
   <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/JainamSavla?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Jainam's Comprehensive GitHub Stats">
-    <br><br>
     <img src="https://github-readme-bento.vercel.app/stats/JainamSavla?theme=dark" alt="Jainam's Bento Stats">
     <br><br>
     <img src="https://stats.dooboo.io/api/github-stats-advanced?login=JainamSavla" alt="Advanced GitHub Stats for Jainam" width="400">
