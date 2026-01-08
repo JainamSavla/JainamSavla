@@ -1,17 +1,44 @@
 # 👋 Hi, I'm Jainam Savla
 <img src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" width="1069" height="390" style="border-radius:15px;" alt="image" />
 
-## 🔗 Connect With Me
+## 👨‍💻 About Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jainamsavla77@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainam-savla-b6433828b)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JainamSavla)
+<img align="right" width="750" height="594" alt="image" src="https://github.com/user-attachments/assets/a927d644-55d7-4f40-9eab-37a1345ac085" />
 
----
+I am a **Computer Science and Engineering student** with a strong focus on  
+**Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
+I enjoy building **scalable applications**, working with **data-driven systems**,  
+and applying **AI/ML models to real-world problems**. My experience spans across  
+backend logic, modern frontend frameworks, and analytical problem-solving.
+
+- 🔹 Strong foundation in **Python, Java, JavaScript, and SQL**
+- 🔹 Hands-on experience with **AI/ML pipelines and data analytics**
+- 🔹 Passionate about **open-source contributions and collaborative development**
+- 🔹 Continuously learning emerging technologies like **Blockchain & Quantum Computing**
+
+📌 *I believe in writing clean, efficient code and building solutions that create impact.*
+
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jainamsavla77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jainamsavla77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jainam-savla-b6433828b">
+  <img src="https://img.shields.io/badge/LinkedIn-Jainam%20Savla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JainamSavla">
+  <img src="https://img.shields.io/badge/GitHub-JainamSavla-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-## 🚀 Tech Arsenal
+
+### 🚀 Tech Arsenal
 
 ### 💻 Languages
 
