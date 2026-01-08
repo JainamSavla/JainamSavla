@@ -1,32 +1,43 @@
-# 👋 Hi, I’m Jainam Savla  
+<div align="center">
 
-<div style="background-color: #16171b; padding: 20px; border-radius: 10px; display: flex; align-items: center; gap: 20px;">
-<div style="flex: 1;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0d1117; border: 2px solid #30363d; border-radius: 10px; overflow: hidden; font-family: 'Courier New', Courier, monospace; color: #c9d1d9; max-width: 850px;">
+  <tr>
+    <td width="60%" valign="top" style="padding: 25px; border-right: 1px solid #30363d;">
+      <div style="font-size: 20px; font-weight: bold; border-bottom: 2px solid #58a6ff; padding-bottom: 10px; margin-bottom: 20px; color: #58a6ff;">
+        IDENTIFICATION CARD : JAINAM SAVLA
+      </div>
+      
+      <div style="line-height: 1.8; font-size: 14px;">
+        <span style="color: #8b949e;">STATUS:</span> ........... Engineering Student<br>
+        <span style="color: #8b949e;">DOMAINS:</span> .......... AI, Blockchain, Security<br>
+        <span style="color: #8b949e;">LOCATION:</span> ......... Mumbai, MH, India<br>
+        <span style="color: #8b949e;">VIBE:</span> ............. Minimalist / Terminal<br>
+      </div>
 
-```
-JainamSavla ──────────────────────────────────
+      <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-size: 12px; letter-spacing: 2px;">
+       
+      <div style="margin-top: 20px; font-weight: bold; color: #58a6ff; font-size: 12px; letter-spacing: 2px;">
+        CONTACT REGISTRY
+      </div>
+      <div style="border-top: 1px solid #30363d; margin-top: 5px; padding-top: 10px; line-height: 1.8; font-size: 14px;">
+        <span style="color: #8b949e;">EMAIL:</span> ........... jainamsavla77@gmail.com<br>
+        <span style="color: #8b949e;">LINKEDIN:</span> ........ /in/jainam-savla<br>
+        <span style="color: #8b949e;">GITHUB:</span> .......... @JainamSavla<br>
+      </div>
+    </td>
 
-OS: ................. Web, AI/ML, Blockchain
-Location: ........... Mumbai, Maharashtra
-Role: ............... Full-Stack Developer
-Focus: .............. AI/ML, Web, Blockchain
+    <td width="40%" valign="middle" align="center" style="background-color: #161b22; padding: 20px;">
+      <img src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" width="100%" style="border-radius: 5px; filter: grayscale(20%) contrast(110%);" />
+      <div style="margin-top: 15px; font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 3px;">
+        Authorized Personnel Only
+      </div>
+      <div style="margin-top: 5px;">
+        <img src="https://white.logodownload.org/wp-content/uploads/2020/11/google-certified-professional-logo.png" width="80px" style="opacity: 0.7;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-Languages: .......... Python, Java, JS, SQL
-Frameworks: ......... React, Node, Next.js
-AI/ML: .............. TensorFlow, Pandas
-Tools: .............. Git, Docker, VS Code
-
-─ Contact ────────────────────────────────────
-
-Email: .............. jainamsavla77@gmail.com
-LinkedIn: ........... /in/jainam-savla-b6433828b
-GitHub: ............. github.com/JainamSavla
-```
-
-</div>
-<div style="flex-shrink: 0;">
-<img width="280" src="https://github.com/user-attachments/assets/fa6524b9-694f-4439-a863-17671297b605" style="border-radius: 8px;" />
-</div>
 </div>
 ## 🚀 Tech Arsenal
 
