@@ -2,8 +2,7 @@
 <img src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" width="1069" height="390" style="border-radius:15px;" alt="image" />
 
 ## 👨‍💻 About Me
-
-<img align="right" width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/a927d644-55d7-4f40-9eab-37a1345ac085" />
+<img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
 
 I am a **Computer Science and Engineering student** with a strong focus on  
 **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
