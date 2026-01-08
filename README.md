@@ -75,19 +75,25 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamSavla&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainamSavla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainamSavla&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamSavla&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JainamSavla&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
----
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=JainamSavla&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&theme=react-dark&hide_border=true" />
+</div>
 ---
 
 ## 🌊 Contribution Graph
-![Snake animation](https://github.com/JainamSavla/JainamSavla/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://github.com/JainamSavla/JainamSavla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 ⭐ *Open to internships, collaborations, and challenging engineering problems.*
