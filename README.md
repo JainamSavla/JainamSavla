@@ -44,20 +44,6 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 
 ---
 
-## 📜 Certifications
-
-<img width="250" align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-- AWS Academy Graduate – Generative AI Foundations
-- Google AI/ML Certification
-- Altair Data Science Professional
-- Palo Alto Networks Security Operations
-- Eduskills Ethical Hacking
-- Google Android Development (Compose)
-- Cisco Advanced C & JavaScript Essentials
-
----
-
 <h3 align="center">📊 Git Stats</h3>
 
 <div align="center">
@@ -110,7 +96,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 ---
 
 ## 💡 What I'm Currently Working On
-
+ <img width="250" align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 - 🔭 Building innovative AI/ML projects
 - 🌱 Learning advanced blockchain technologies
 - 👯 Open to collaborations on full-stack and data science projects
