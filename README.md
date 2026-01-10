@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jainam Savla:-https://jainamsavla.github.io/Portfolio/
-<img src="https://github.com/user-attachments/assets/814f7d94-c978-4f9d-8b3b-b44d00f5a7e3" width="1069" height="390" style="border-radius:15px;" alt="image" />
+
 
 ## 👨‍💻 About Me
 <img align="right" width="320" height="180" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
