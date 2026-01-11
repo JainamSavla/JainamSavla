@@ -49,10 +49,6 @@ emerging technologies such as **Blockchain and Quantum Computing**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&custom_title=Jainam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 
-<p align="center">
-  <img width="500" height="500" align="center" src="github-metrics.svg" alt="Jainam's Metrics" width="100%">
-</p>
-
 ### 📈 GitHub Contribution Chart
 
 <div align="center">
