@@ -50,7 +50,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 <br>
 
 <p align="center">
-  <img width="250" height="300" align="center" src="github-metrics.svg" alt="Jainam's Metrics" width="100%">
+  <img width="500" height="500" align="center" src="github-metrics.svg" alt="Jainam's Metrics" width="100%">
 </p>
 
 ### 📈 GitHub Contribution Chart
