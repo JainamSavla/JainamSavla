@@ -49,19 +49,9 @@ emerging technologies such as **Blockchain and Quantum Computing**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamSavla&custom_title=Jainam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JainamSavla" alt="Repos Per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-      </td>
-    </tr>
-  </table>
-</div>
->
+<p align="center">
+  <img src="github-metrics.svg" alt="Jainam's Metrics" width="100%">
+</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Profile Details">
 
