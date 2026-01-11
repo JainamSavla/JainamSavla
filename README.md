@@ -105,6 +105,4 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 
 ⭐ **Open to internships, collaborations, and challenging engineering problems** ⭐
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JainamSavla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+>
