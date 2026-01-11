@@ -52,7 +52,7 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 <div align="center">
 <table>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JainamSavla&theme=highcontrast&hide_border=true&v=1" alt="Repos Per Language">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JainamSavla&theme=highcontrast&hide_border=true" alt="Most Commit Language">
