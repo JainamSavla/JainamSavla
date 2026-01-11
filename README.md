@@ -50,8 +50,8 @@ emerging technologies such as **Blockchain and Quantum Computing**.
 <br>
 
 <p align="center">
-  <img src="assets/top-langs.svg" />
-  <img src="assets/stats.svg" />
+<img src="./assets/top-langs.svg" />
+<img src="./assets/stats.svg" />
 </p>
 
 
