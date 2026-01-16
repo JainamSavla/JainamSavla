@@ -1,0 +1,41 @@
+name: Full Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: JainamSavla
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # 🏆 Widget 1: Achievements (Gamification)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          # 📊 Widget 2: Detailed Languages (Pie Chart)
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          
+          # 🕒 Widget 3: Coding Habits (When are you most active?)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          
+          # 🚀 Widget 4: Lines of Code (Total code written)
+          plugin_lines: yes
+          
+          # 📅 Widget 5: Isometric Calendar (3D Contribution Graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 🌟 Widget 6: Starred Topics (Interests like AI/Blockchain)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
