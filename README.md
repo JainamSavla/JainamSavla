@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jainam Savla
 <img align="right" width="320" height="180" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
 https://jainamsavla.github.io/Portfolio/
+
 I am a **Computer Science and Engineering student** with interests in  
 **AI/ML, full-stack development, and data-driven systems**.
 
